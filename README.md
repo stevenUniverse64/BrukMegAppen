@@ -1,12 +1,6 @@
-<div align = "center">
-
 # BrukMeg Appen
 
 <img src="Media/BrukMegLogo.png" width="400">
-
-
-
-</div>
 
 ## Generell informasjon
 Dette er en applikasjon som er utviklet under forløpet av bachelor i IT & Informasjonssystemer. 
@@ -51,7 +45,7 @@ cd frontend && npm run dev
 
 ### ⚠️ IMPORTANT NOTICE:
 
-THIS APPLICATION IS STRICTLY MEANT FOR EDUCATIONAL PURPOSES AND SHOULD UNDER NO CIRCUSTANCE BE USED FOR COMMERCIAL PURPOSES. ⚠️
+THIS APPLICATION IS STRICTLY MEANT FOR EDUCATIONAL PURPOSES AND SHOULD UNDER NO CIRCUSTANCE BE USED COMMERCIALLY. ⚠️
 
 ## Ekstra
 Hensikten med BrukMeg Appen er å få en oversikt over, og utføre diverse analyser av volumet av kjøp og salg av klær på tvers av bruktmarkeder i Norge.
