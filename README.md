@@ -1,7 +1,12 @@
-# BrukMeg Appen
-*Av Lucas Leon Svaet Holter*
+<div align = "center">
 
-![alt text](Media/BrukMegLogo.png)
+# BrukMeg Appen
+
+<img src="Media/BrukMegLogo.png" width="400">
+
+
+
+</div>
 
 ## Generell informasjon
 Dette er en applikasjon som er utviklet under forløpet av bachelor i IT & Informasjonssystemer. 
@@ -23,7 +28,7 @@ Søkeresultater hentes direkte fra aktøren og lagres i en lokal database for ra
 
 ### Installasjon
 ```bash
-# Installer avhengigheter
+# Installer avhengigheter (Kjøres i terminal fra rotmappe)
 cd backend && npm install
 cd ../frontend && npm install
 
@@ -56,6 +61,9 @@ BrukMeg Appen er under utvikling, og veien videre (per 03/26) inkluderer:
 - Front end UI
 - Statistikk for salg og kjøp av klær
 - Flere aktører
+
+
+
 
 
 
