@@ -1,7 +1,7 @@
 # BrukMeg Appen
 *Av Lucas Leon Svaet Holter*
 
-![](/Media/BrukMeglogo.png)
+![](Media/BrukMeglogo.png)
 
 ## Generell informasjon
 Dette er en applikasjon som er utviklet under forløpet av bachelor i IT & Informasjonssystemer. 
